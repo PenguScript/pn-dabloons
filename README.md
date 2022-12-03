@@ -5,4 +5,5 @@
 ```
 
 2. when adding the `dabloon` item to other scripts, if you are confused, make a ticket below
+
 [Discord](https://discord.gg/PkJGQ6EdZp)
